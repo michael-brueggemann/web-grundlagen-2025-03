@@ -13,6 +13,7 @@ package-lock.json
 speaker/
 slides/*.pptx
 .npmrc
+html-css/_work/
 
 ##### enable these entries if you don't want to commit the solutions #####
 
@@ -29,7 +30,7 @@ JavaScript.pdf
 # javascript/exercise-17-js/
 
 # hide html-css solutions:
-html-css/exercise-03/
+# html-css/exercise-03/
 html-css/exercise-04/
 html-css/exercise-05/
 html-css/exercise-06/
